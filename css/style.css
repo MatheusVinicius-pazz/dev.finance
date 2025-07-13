@@ -7,7 +7,10 @@
   --light-green: #3dd705;
   --red: #e92929;
 }
-
+.logo{
+  font-family: 'Times New Roman', Times, serif;
+  color: #f0f2f5;
+}
 /* GENERAL CLASS ====================== */
 * {
   margin: 0;
